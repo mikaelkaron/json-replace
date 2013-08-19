@@ -1,7 +1,7 @@
 {
 	"name": "json-replace",
 	"description": "Replace json",
-	"version": "0.0.1-SNAPSHOT",
+	"version": "0.0.1",
 	"homepage": "https://github.com/mikaelkaron/json-replace",
 	"author": {
 		"name": "Mikael Karon",
